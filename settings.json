@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Retard",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Retard",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "KupalVsNegroVsBading.aternos.me",
+    "port": 51022,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a retard",
+        "I like bading!",
+        "I Hate niggers!!"
       ]
     },
     "chat-log": true,
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,

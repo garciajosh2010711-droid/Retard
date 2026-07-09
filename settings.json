@@ -1,7 +1,7 @@
 {
-  "name": "Retard",
+  "name": "Retardus",
   "bot-account": {
-    "username": "Retard",
+    "username": "Retardus",
     "password": "",
     "type": "offline"
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 420,
       "messages": [
         "I'm a retard",
         "I like bading!",

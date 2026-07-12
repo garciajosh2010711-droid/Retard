@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kupalvsniggervsbading.minefort.com",
-    "port": 25565,
+    "ip": "NgaVsKupalVsBadings.play.hosting",
+    "port": 25950,
     "version": "",
     "try-creative": false
   },
@@ -32,8 +32,9 @@
       "repeat-delay": 420,
       "messages": [
         "I'm a retard",
-        "I like bading!",
-        "I Hate niggers!!"
+        "I like bading!!",
+        "I Hate niggers!!",
+        "Christopher is gay!"
       ]
     },
     "chat-log": true,
@@ -42,7 +43,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,

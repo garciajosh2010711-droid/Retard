@@ -1,13 +1,13 @@
 {
-  "name": "Retardus",
+  "name": "Null",
   "bot-account": {
     "username": "Retardus",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "NgaVsKupalVsBadings.play.hosting",
-    "port": 25950,
+    "ip": "TestTestTesting.aternos.me",
+    "port": 55743,
     "version": "",
     "try-creative": false
   },
@@ -29,12 +29,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 420,
+      "repeat-delay": 101010,
       "messages": [
-        "I'm a retard",
-        "I like bading!!",
-        "I Hate niggers!!",
-        "Christopher is gay!"
+        "hi",
+        "hello",
+        "hey",
+        "howdy"
       ]
     },
     "chat-log": true,

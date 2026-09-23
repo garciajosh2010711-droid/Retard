@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SCHOOLSMP-8bNI.aternos.me",
+    "ip": "cherubfish.aternos.host:35461",
     "port": 35461,
     "version": "",
     "try-creative": false
